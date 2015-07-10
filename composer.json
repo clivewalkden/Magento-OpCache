@@ -1,8 +1,8 @@
 {
-    "name": "schumacherfm/opcache",
+    "name": "clivewalkden/opcache",
     "type": "magento-module",
     "license": "OSL-3.0",
-    "homepage": "https://github.com/SchumacherFM/Magento-OpCache",
+    "homepage": "https://github.com/clivewalkden/Magento-OpCache",
     "description": "OpCache Panel for Backend. Reset cache, compile all files, SVG Pie Charts with live reload",
     "authors": [
         {
