@@ -96,17 +96,6 @@
                             <value>op-top</value>
                         </action>
                     </block>
-                    <block type="opcache/adminhtml_files" name="opcache_files" template="opcachepanel/datagrid.phtml">
-                        <action method="setOpTitle">
-                            <value>Files</value>
-                        </action>
-                        <action method="setOpMethod">
-                            <value>getFilesDisplay</value>
-                        </action>
-                        <action method="setOpStyle">
-                            <value>op-top</value>
-                        </action>
-                    </block>
                 </block>
             </block>
         </reference>
